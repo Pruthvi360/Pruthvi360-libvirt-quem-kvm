@@ -5,7 +5,7 @@ sudo su -
 # Update and Upgrade Ubuntu 22.04
 
 sudo apt update
-sudo apt upgrade
+sudo apt upgrade -y
 
 # Check if Virtualization is enabled
 
